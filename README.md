@@ -1,2 +1,2 @@
-# sahlah-resolusi
+# sahlan-resolusi
 Repository untuk menyimpan rencana
